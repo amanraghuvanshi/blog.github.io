@@ -28,6 +28,8 @@ I am a UI/UX Developer and Cyber Security Freak <img src="https://media.giphy.co
   <a href="https://amanraghuvanshi.github.io/blog.github.io/" target="_blank"><strong>⏩ 𝕃𝕚𝕧𝕖 𝔻𝕖𝕞𝕠🍩</strong></a><br><br><br>
 </div>
 
+![Blogs1](https://user-images.githubusercontent.com/110326399/188277556-b8618e8d-f535-42f8-b42b-3adc46fa7669.png)
 
-![Blogs1](https://user-images.githubusercontent.com/110326399/188266317-d228e9e4-f203-4155-a95f-b58597184219.png)
+
+
 
