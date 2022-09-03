@@ -296,12 +296,15 @@ header .flex-wrapper {
 }
 
 .navbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 15px;
-  padding: 15px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    padding: 15px 0;
+    flex-direction: row;
+    align-content: center;
 }
+
 
 .logo-light,
 .logo-dark {
@@ -776,7 +779,7 @@ footer .wrapper {
   }
 
   .profile-wrapper {
-    width: 56px;
+    width: 37px;
     height: 56px;
     background: var(--action-primary);
     padding: 3px;
