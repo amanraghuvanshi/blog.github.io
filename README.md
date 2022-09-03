@@ -1,4 +1,4 @@
-<p align="center"><strong>It's still on Beta!!, I believe together we can gain perfection.<br>All your advises are welcomed. Feel free to contact.<br>Your ideas and innovations are warmly welcomed</strong></p>
+<p align="center"><strong>I believe together we can gain perfection.<br>All your advises are welcomed. Feel free to contact.<br>Your ideas and innovations are warmly welcomed</strong></p>
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/amanraghuvanshi/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
@@ -24,7 +24,7 @@ I am a UI/UX Developer and Cyber Security Freak <img src="https://media.giphy.co
 <hr><br><hr>
 
 <div align="center">
-  <p><strong>DEVBLOGs - Pen and Power your thoughts</strong></p><br>
+  <p><strong>LayerLogs - Pen and Power your thoughts</strong></p><br>
   <a href="https://amanraghuvanshi.github.io/blog.github.io/" target="_blank"><strong>⏩ 𝕃𝕚𝕧𝕖 𝔻𝕖𝕞𝕠🍩</strong></a><br><br><br>
 </div>
 
